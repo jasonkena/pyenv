@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 # Usage: pyenv completions <command> [arg1 arg2...]
 
 set -e

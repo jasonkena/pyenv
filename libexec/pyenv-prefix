@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 # Summary: Display prefix for a Python version
 # Usage: pyenv prefix [<version>]
 #

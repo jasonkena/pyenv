@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 set -e
 
 if [ -n "$PYENV_NATIVE_EXT" ]; then

@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 # Summary: Show the current Python version and its origin
 #
 # Shows the currently selected Python version and how it was

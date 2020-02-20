@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 # Summary: List all available pyenv commands
 # Usage: pyenv commands [--sh|--no-sh]
 

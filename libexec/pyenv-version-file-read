@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 # Usage: pyenv version-file-read <file>
 set -e
 [ -n "$PYENV_DEBUG" ] && set -x

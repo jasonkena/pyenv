@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 # Summary: Rehash pyenv shims (run this after installing executables)
 
 set -e
@@ -62,7 +62,7 @@ fi
 # serves as a locking mechanism.
 create_prototype_shim() {
   cat > "$PROTOTYPE_SHIM_PATH" <<SH
-#!/usr/bin/env bash
+#!/usr/bin/bash
 set -e
 [ -n "\$PYENV_DEBUG" ] && set -x
 

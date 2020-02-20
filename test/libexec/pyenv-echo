@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 # Usage: pyenv echo [-F<char>] VAR
 
 if [[ $1 == -F* ]]; then

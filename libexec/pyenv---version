@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 # Summary: Display the version of pyenv
 #
 # Displays the version number of this pyenv release, including the
